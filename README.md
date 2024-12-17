@@ -1,4 +1,4 @@
-# Azure Kubernetes Cluster with Frontend and Backend Services
+# Quiz PNT
 
 This repository contains the Kubernetes YAML files to deploy a simple application with a frontend and backend service on an Azure Kubernetes Service (AKS) cluster.
 
